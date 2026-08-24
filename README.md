@@ -2,10 +2,10 @@
 ### Desenvolvedor Full Stack • Especialista no Ecossistema React & Node.js
 
 <p align="left">
-  <a href="[https://portfolio-marcio.vercel.app](https://portfolio-ruddy-nu-79.vercel.app/)">
+  <a href="https://portfolio-ruddy-nu-79.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfólio_&_Hub-Acessar-0070F3?style=for-the-badge" alt="Portfólio" />
   </a>
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/marcio-jos%C3%A9-dos-santos-maciel-junior-9a6263268/)">
+  <a href="https://www.linkedin.com/in/marcio-jos%C3%A9-dos-santos-maciel-junior-9a6263268/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
