@@ -2,10 +2,10 @@
 ### Desenvolvedor Full Stack • Especialista no Ecossistema React & Node.js
 
 <p align="left">
-  <a href="https://portfolio-marcio.vercel.app">
+  <a href="[https://portfolio-marcio.vercel.app](https://portfolio-ruddy-nu-79.vercel.app/)">
     <img src="https://img.shields.io/badge/🌐_Portfólio_&_Hub-Acessar-0070F3?style=for-the-badge" alt="Portfólio" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/marcio-jos%C3%A9-dos-santos-maciel-junior-9a6263268/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -30,7 +30,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MarcioJSMJr&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MarcioJSMJr&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarcioJSMJr&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
